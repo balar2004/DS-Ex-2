@@ -1,4 +1,7 @@
 ## Ex.No:2 EDA Analysis using Python
+### Date : 
+### Name : Bala R
+### Reg No : 212222220007
 ## AIM:
 To perform Exploratory Data Analysis on the given data set.
       
